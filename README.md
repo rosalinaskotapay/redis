@@ -1,2 +1,2 @@
 # redis
-Video-based curated pre-loved marketplace
+Video-based curated pre-loved marketplace.
